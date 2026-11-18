@@ -48,9 +48,9 @@ PORT=5000
 DB_HOST=localhost
 DB_PORT=3306
 DB_USER=root
-DB_PASSWORD=YOUR_MYSQL_PASSWORD
+DB_PASSWORD=pranathi
 DB_NAME=paisa_bachao
-JWT_SECRET=change_this_to_a_long_random_string
+JWT_SECRET=happybirthdaybitch
 GOOGLE_CLIENT_ID=your_google_client_id   # optional
 CLIENT_URL=http://localhost:3000
 ```
