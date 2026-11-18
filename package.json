@@ -1,0 +1,14 @@
+{
+  "name": "paisa-bachao",
+  "version": "1.0.0",
+  "description": "Paisa Bachao - Student Budget Manager (Monorepo root)",
+  "scripts": {
+    "install:all": "cd server && npm install && cd ../client && npm install",
+    "dev:server": "cd server && npm run dev",
+    "dev:client": "cd client && npm start",
+    "start:server": "cd server && npm start"
+  },
+  "keywords": ["budget", "student", "india", "pocket-money"],
+  "author": "PaisaBachao"
+}
+
