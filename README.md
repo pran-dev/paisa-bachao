@@ -10,6 +10,7 @@
 - Node.js v18+
 - MySQL 8.0+
 - A Google OAuth 2.0 Client ID (optional, for Google Sign-In)
+- Off Campus Code:  MZMCUW
 
 ---
 
